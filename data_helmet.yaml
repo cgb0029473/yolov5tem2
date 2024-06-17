@@ -1,0 +1,4 @@
+train: /content/yolov5/data/train/images
+val: /content/yolov5/data/valid/images
+nc: 4
+names: ["CON CASCO", "SIN CASCO", "MOTOCICLISTA", "PLACA"]
